@@ -5,8 +5,8 @@ import requests
 app = Flask(__name__)
 
 VERIFY_TOKEN = 'premierverifytoken'
-ACCESS_TOKEN = 'YOUR_ACCESS_TOKEN'
-PHONE_NUMBER_ID = 'YOUR_PHONE_NUMBER_ID'
+ACCESS_TOKEN = '735804152199653'
+PHONE_NUMBER_ID = '255655551515'
 
 LANGUAGES = {'1': 'english', '2': 'swahili', '3': 'french'}
 user_lang = {}
